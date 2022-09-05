@@ -16,8 +16,7 @@
 <div> 
   <a href = "mailto:nazarenomateus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
-  <a href="http://lattes.cnpq.br/2902219779997098">Currículo Lattes</a> 
-        
+         
   ![Snake animation](https://github.com/nazamath/nazamath/blob/output/github-contribution-grid-snake.svg)
  
 </div>
